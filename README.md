@@ -13,7 +13,6 @@
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 - ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 - [![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-- 
 
 
 ### 📫 Feel free to contact me via:
